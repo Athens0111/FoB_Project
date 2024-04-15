@@ -33,8 +33,8 @@ $ sudo npm install http-server -g
 ## Run
 Clone the repository and start `http-server`.
 ```bash
-$ git clone https://github.com/suvambasak/supply-chain-ethereum.git
-$ cd supply-chain-ethereum/
+$ git clone https://github.com/Athens0111/FoB_Project
+$ cd FoB_Project/
 $ http-server
 ```
 Goto : http://localhost:8080/
